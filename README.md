@@ -2,11 +2,12 @@
 Used to start "Steam++.exe" and perform auxiliary operations
 
 # Effect
-1. Fixed "UISettings.json"
+1. Make "UISettings.json" fixed
 2. When closing "Steam++.exe", refresh the System Tray Area
 
 # How to use
 1. Copy and overwrite "UISettings.json.save.bak" with the adjusted UI state "UISettings.json"
+
 Note: You may need to find the difference in position before and after the startup form,
 and manually save the form information after the deviation
 
