@@ -16,7 +16,7 @@ and manually save the form information after the deviation
 
 # Notice
 For users in different operating systems and language environments,
-it may be necessary to replace the last executed "FindWindowEx()" parameter
+it may be necessary to replace the last executed "FindWindowEx()" parameter at last
 in "GetNotifyAreaHandle()" and "GetNotifyOverHandle()"
 
 # Disclaimer
