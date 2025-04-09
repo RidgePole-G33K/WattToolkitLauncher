@@ -8,7 +8,7 @@ Used to start "Steam++.exe" and perform auxiliary operations
 # How to use
 1. Copy and overwrite "UISettings.json.save.bak" with the adjusted UI state "UISettings.json"
 
-Note: You may need to find the difference in position before and after the startup form,
+Note: You may need to find the difference in position before and after start,
 and manually save the form information after the deviation
 
 Example: When Resolution is 1920x1080 and DPI is 1.0x, the Bound of 60% Full-Screen is (377, 185 647x1150).
