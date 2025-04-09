@@ -2,7 +2,7 @@
 Used to start "Steam++.exe" and perform auxiliary operations
 
 # Effect
-1. Make "UISettings.json" fixed
+1. Leave "UISettings.json" unchanged
 2. When closing "Steam++.exe", refresh the System Tray Area
 
 # How to use
