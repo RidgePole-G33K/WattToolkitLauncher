@@ -11,6 +11,9 @@ Used to start "Steam++.exe" and perform auxiliary operations
 Note: You may need to find the difference in position before and after the startup form,
 and manually save the form information after the deviation
 
+Example: When Resolution is 1920x1080 and DPI is 1.0x, the Bound of 60% Full-Screen is (377, 185 647x1150).
+If DPI is 1.25x, the Bound is (376, 178 538.4x920)
+
 2. Put "WattToolkitLauncher.exe" into the directory where "Steam++.exe" exists
 3. Have "WattToolkitLauncher.exe" start instead of "Steam++.exe"
 
